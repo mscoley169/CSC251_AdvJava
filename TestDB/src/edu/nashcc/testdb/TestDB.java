@@ -10,7 +10,7 @@ public class TestDB {
 	public static void main(String[] args) {
 	
 		try{
-		Class.forName("net.ucanaccess.jdbc.UcanaccessDriver");
+		Class.forName("src.main.java.net.ucanaccess.jdbc.UcanaccessDriver");
 			Connection conn=DriverManager.getConnection(
 		        "jdbc:ucanaccess://C:/Users/mscoley169/Documents/Databases/jdbc_book.mdb", "jdbc_book", "guest");
 		Statement s = conn.createStatement();

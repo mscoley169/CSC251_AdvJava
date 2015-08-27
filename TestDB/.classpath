@@ -8,5 +8,6 @@
 	<classpathentry kind="lib" path="C:/Users/mscoley169/Documents/JavaLibs/hsqldb.jar"/>
 	<classpathentry kind="lib" path="C:/Users/mscoley169/Documents/JavaLibs/jackcess-2.1.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/mscoley169/Documents/JavaLibs/UCanAccess-3.0.0-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/mscoley169/Documents/JavaLibs/UCanAccess-3.0.0-src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
